@@ -111,7 +111,13 @@ This project uses the [MovieLens Small Dataset](https://grouplens.org/datasets/m
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
+
+### 🔍 Search Page
+![Search Page](screenshot1.png)
+
+### ✅ Results Page
+![Results Page](screenshot2.png)
 
 > 🎬 Movie Recommendation System Web App
 > - Enter a movie title (e.g. Toy Story, Jumanji)
