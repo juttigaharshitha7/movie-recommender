@@ -119,11 +119,6 @@ This project uses the [MovieLens Small Dataset](https://grouplens.org/datasets/m
 ### ✅ Results Page
 ![Results Page](screenshot2.png)
 
-> 🎬 Movie Recommendation System Web App
-> - Enter a movie title (e.g. Toy Story, Jumanji)
-> - Adjust number of recommendations (3–10)
-> - Click "Get Recommendations"
-
 ---
 
 ## 👩‍💻 Author
